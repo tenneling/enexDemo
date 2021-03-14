@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export2.dtd">
+<en-export export-date="20210314T081123Z" application="Evernote/Windows" version="6.x">
+<note><title>Node.js学习笔记</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+
+<en-note><div>1.Node.js是运行在服务端的JavaScript</div><div><br/></div><div>2.node main.js(JS文件)，以运行js文件，ctrl+c退出服务器（取消操作）</div><div><br/></div><div>3.npm是包管理工具</div><div><br/></div><div>4.查看npm安装模块列表：npm list -g</div><div><br/></div><div>5.查看包属性：package.json</div><div><br/></div><div>6.下载/卸载模块：npm install/uninstall&nbsp;express(模块)</div><div><br/></div><div>7.查询该模块是否存在： napm ls express(模块)</div><div><br/></div><div>8.更新/搜索模块：npm update/search express(模块)</div><div><br/></div><div>9.创建模块：npm init ，然后填写内容，用npm publish&nbsp;发布模块</div><div><br/></div><div>10.淘宝镜像：npm install -g cnpm --registry=https://registry.npm.taobao.org，改为cnpm install&nbsp;来安装模块</div></en-note>]]></content><created>20210307T090814Z</created><updated>20210307T094606Z</updated><note-attributes><author>十点一刻</author><source>desktop.win</source><source-url>https://www.runoob.com/nodejs/nodejs-npm.html</source-url><source-application>yinxiang.win32</source-application></note-attributes></note></en-export>
